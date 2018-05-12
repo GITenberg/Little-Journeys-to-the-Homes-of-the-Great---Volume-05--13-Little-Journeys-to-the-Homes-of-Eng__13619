@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13619#Little-Journeys-to-the-Homes-of-the-Great---Volume-05--13-Little-Journeys-to-the-Homes-of-Eng_
 gutenberg_issued: '2004-10-08'
 gutenberg_type: Text
 identifiers:
